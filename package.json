@@ -1,0 +1,17 @@
+{
+  "name": "RightGifMeBro",
+  "version": "1.0.0",
+  "description": "Find yourself the right gif",
+  "scripts": {
+    "clean": "rm -rf dist/ build/",
+    "build": "mkdir -p build/ && cp -rv chrome-extension/* build/",
+    "package": "npm run clean && npm run build && mkdir -p dist/ && cd build && zip -r ../dist/RightGifMeBro.zip ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jkamuda/RightGifMeBro.git"
+  },
+  "author": "",
+  "license": "",
+  "license": "MIT"
+}
