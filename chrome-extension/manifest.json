@@ -6,7 +6,8 @@
     "scripts": ["js/background.js"]
   },
   "icons": {
-    "16": "img/muscle-arm.png"
+    "16": "img/muscle-arm.png",
+    "48": "img/muscle-arm-48.png"
   },
   "omnibox": { "keyword" : "rgif" },
   "manifest_version": 2,
