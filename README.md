@@ -1,4 +1,4 @@
 # RightGifMeBro
-Install the extension, then type 'rgif' plus a search term to find you the right gif!
+Install the extension, then type "rgif" in your omnibox along with a search term!
 
-Download the extension [here](https://raw.githubusercontent.com/jkamuda/RightGifMeBro/master/dist/RightGifMeBro.zip) and drag + drop it into the chrome extensions tab. You might need to enable developer mode. 
+Download the extension [here](https://raw.githubusercontent.com/jkamuda/RightGifMeBro/master/dist/RightGifMeBro.zip) and drag + drop it into your extensions tab. You might need to enable developer mode.
